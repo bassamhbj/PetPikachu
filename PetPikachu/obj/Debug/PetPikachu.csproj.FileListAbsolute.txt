@@ -1,0 +1,12 @@
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\bin\Debug\PetPikachu.exe.config
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\bin\Debug\PetPikachu.exe
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\bin\Debug\PetPikachu.pdb
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.csprojAssemblyReference.cache
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.Form1.resources
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.Properties.Resources.resources
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.csproj.GenerateResource.cache
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.csproj.CoreCompileInputs.cache
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.exe
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\obj\Debug\PetPikachu.pdb
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\bin\Debug\Assets\pikachu_sprite_sheet.png
+C:\Users\b.al-mahamid.velez\Documents\Projects\.NET\PetPikachu\PetPikachu\bin\Debug\Assets\status_sprite_sheet.png
