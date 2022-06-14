@@ -48,6 +48,7 @@ namespace PetPikachu.Model
         public class AnimationSet
         {
             public List<SpriteItem> Sprites { get; set; }
+            //public 
         }
     }
 }
