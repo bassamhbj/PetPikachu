@@ -3,7 +3,7 @@ using System.Drawing;
 
 namespace PetPikachu.Model
 {
-    public class SpriteModel
+    public abstract class SpriteModel
     {
         // This need to be optimized.
         // I want to separate the sprite type within each model class
@@ -29,6 +29,8 @@ namespace PetPikachu.Model
             RIGHT_SIDE,
             RIGHT_SIDE_WALK
         }
+
+        public abstract void InitAnimationSet();
 
         public class SpriteItem
         {

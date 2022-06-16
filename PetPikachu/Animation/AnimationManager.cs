@@ -15,6 +15,15 @@ namespace PetPikachu.Animation
 
         private readonly int FPS = 8;
 
+        public enum AninamtionType
+        {
+            IDLE,
+            MOVE_FRONT,
+            MOVE_LEFT,
+            MOVE_RIGHT,
+            MOVE_BACK
+        }
+
         public AnimationManager(IAnimationListerner animationListerner, int fps)
         {
             _animationListerner = animationListerner;

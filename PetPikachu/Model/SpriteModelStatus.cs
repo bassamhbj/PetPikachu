@@ -38,6 +38,12 @@ namespace PetPikachu.Model
         public SpriteItem GetSleep() => GetSprite(SpriteType.SLEEP);
 
 
+        public override void InitAnimationSet()
+        {
+            throw new System.NotImplementedException();
+        }
+
+
         private SpriteItem GetSprite(SpriteType type) =>
             Sprites.Where(x => x.Type == type).FirstOrDefault();
     }
